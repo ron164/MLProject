@@ -1,0 +1,11 @@
+numpy
+pandas
+pydantic
+scikit-learn
+strictyaml
+ruamel.yaml
+feature-engine
+joblib
+matplotlib
+Flask
+gunicorn
